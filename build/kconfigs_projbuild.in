@@ -1,0 +1,4 @@
+source "/home/alejandro/Descargas/Connect_to_AWS_IoT_-_ESP32-DevKitC/FreeRTOS/vendors/espressif/esp-idf/components/app_update/Kconfig.projbuild"
+source "/home/alejandro/Descargas/Connect_to_AWS_IoT_-_ESP32-DevKitC/FreeRTOS/vendors/espressif/esp-idf/components/bootloader/Kconfig.projbuild"
+source "/home/alejandro/Descargas/Connect_to_AWS_IoT_-_ESP32-DevKitC/FreeRTOS/vendors/espressif/esp-idf/components/esptool_py/Kconfig.projbuild"
+source "/home/alejandro/Descargas/Connect_to_AWS_IoT_-_ESP32-DevKitC/FreeRTOS/vendors/espressif/esp-idf/components/partition_table/Kconfig.projbuild"

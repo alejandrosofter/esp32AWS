@@ -1,0 +1,5 @@
+source "/home/alejandro/Descargas/Connect_to_AWS_IoT_-_ESP32-DevKitC/FreeRTOS/vendors/espressif/esp-idf/components/efuse/Kconfig"
+source "/home/alejandro/Descargas/Connect_to_AWS_IoT_-_ESP32-DevKitC/FreeRTOS/vendors/espressif/esp-idf/components/esp32/Kconfig"
+source "/home/alejandro/Descargas/Connect_to_AWS_IoT_-_ESP32-DevKitC/FreeRTOS/vendors/espressif/esp-idf/components/esp_common/Kconfig"
+source "/home/alejandro/Descargas/Connect_to_AWS_IoT_-_ESP32-DevKitC/FreeRTOS/vendors/espressif/esp-idf/components/log/Kconfig"
+source "/home/alejandro/Descargas/Connect_to_AWS_IoT_-_ESP32-DevKitC/FreeRTOS/vendors/espressif/esp-idf/components/spi_flash/Kconfig"

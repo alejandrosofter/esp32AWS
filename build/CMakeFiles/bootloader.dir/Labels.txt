@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/alejandro/Descargas/Connect_to_AWS_IoT_-_ESP32-DevKitC/FreeRTOS/build/CMakeFiles/bootloader
+/home/alejandro/Descargas/Connect_to_AWS_IoT_-_ESP32-DevKitC/FreeRTOS/build/CMakeFiles/bootloader.rule
+/home/alejandro/Descargas/Connect_to_AWS_IoT_-_ESP32-DevKitC/FreeRTOS/build/CMakeFiles/bootloader-complete.rule
+/home/alejandro/Descargas/Connect_to_AWS_IoT_-_ESP32-DevKitC/FreeRTOS/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/alejandro/Descargas/Connect_to_AWS_IoT_-_ESP32-DevKitC/FreeRTOS/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/alejandro/Descargas/Connect_to_AWS_IoT_-_ESP32-DevKitC/FreeRTOS/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/alejandro/Descargas/Connect_to_AWS_IoT_-_ESP32-DevKitC/FreeRTOS/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/home/alejandro/Descargas/Connect_to_AWS_IoT_-_ESP32-DevKitC/FreeRTOS/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/alejandro/Descargas/Connect_to_AWS_IoT_-_ESP32-DevKitC/FreeRTOS/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/alejandro/Descargas/Connect_to_AWS_IoT_-_ESP32-DevKitC/FreeRTOS/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule

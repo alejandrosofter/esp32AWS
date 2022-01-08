@@ -1,0 +1,7 @@
+{
+    "afr_source_dir":"/home/alejandro/Descargas/Connect_to_AWS_IoT_-_STM32-B-L475E-IOT01A/FreeRTOS",
+    "thing_name":"prueb3",
+    "wifi_ssid":"RED SOFTER",
+    "wifi_password":"lolita11",
+    "wifi_security":"eWiFiSecurityWPA2"
+}

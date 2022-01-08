@@ -1,0 +1,20 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "/home/alejandro/Descargas/Connect_to_AWS_IoT_-_ESP32-DevKitC/FreeRTOS/vendors/espressif/esp-idf/components/bootloader/subproject",
+    "build_dir":          "/home/alejandro/Descargas/Connect_to_AWS_IoT_-_ESP32-DevKitC/FreeRTOS/build/bootloader",
+    "config_file":        "/home/alejandro/Descargas/Connect_to_AWS_IoT_-_ESP32-DevKitC/FreeRTOS/build/sdkconfig",
+    "config_defaults":    "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "HEAD-HASH-NOTFOUND",
+    "target":             "esp32",
+    "phy_data_partition": "",
+    "monitor_baud" :      "115200",
+    "monitor_toolprefix": "xtensa-esp32-elf-",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : "/home/alejandro/Descargas/Connect_to_AWS_IoT_-_ESP32-DevKitC/FreeRTOS/vendors/espressif/esp-idf/components/efuse/Kconfig;/home/alejandro/Descargas/Connect_to_AWS_IoT_-_ESP32-DevKitC/FreeRTOS/vendors/espressif/esp-idf/components/esp32/Kconfig;/home/alejandro/Descargas/Connect_to_AWS_IoT_-_ESP32-DevKitC/FreeRTOS/vendors/espressif/esp-idf/components/esp_common/Kconfig;/home/alejandro/Descargas/Connect_to_AWS_IoT_-_ESP32-DevKitC/FreeRTOS/vendors/espressif/esp-idf/components/log/Kconfig;/home/alejandro/Descargas/Connect_to_AWS_IoT_-_ESP32-DevKitC/FreeRTOS/vendors/espressif/esp-idf/components/spi_flash/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : "/home/alejandro/Descargas/Connect_to_AWS_IoT_-_ESP32-DevKitC/FreeRTOS/vendors/espressif/esp-idf/components/bootloader/Kconfig.projbuild;/home/alejandro/Descargas/Connect_to_AWS_IoT_-_ESP32-DevKitC/FreeRTOS/vendors/espressif/esp-idf/components/esptool_py/Kconfig.projbuild;/home/alejandro/Descargas/Connect_to_AWS_IoT_-_ESP32-DevKitC/FreeRTOS/vendors/espressif/esp-idf/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "bootloader", "bootloader_support", "efuse", "esp32", "esp_common", "esp_rom", "esptool_py", "log", "main", "micro-ecc", "partition_table", "soc", "spi_flash", "xtensa", "" ],
+    "build_component_paths" : [ "/home/alejandro/Descargas/Connect_to_AWS_IoT_-_ESP32-DevKitC/FreeRTOS/vendors/espressif/esp-idf/components/bootloader", "/home/alejandro/Descargas/Connect_to_AWS_IoT_-_ESP32-DevKitC/FreeRTOS/vendors/espressif/esp-idf/components/bootloader_support", "/home/alejandro/Descargas/Connect_to_AWS_IoT_-_ESP32-DevKitC/FreeRTOS/vendors/espressif/esp-idf/components/efuse", "/home/alejandro/Descargas/Connect_to_AWS_IoT_-_ESP32-DevKitC/FreeRTOS/vendors/espressif/esp-idf/components/esp32", "/home/alejandro/Descargas/Connect_to_AWS_IoT_-_ESP32-DevKitC/FreeRTOS/vendors/espressif/esp-idf/components/esp_common", "/home/alejandro/Descargas/Connect_to_AWS_IoT_-_ESP32-DevKitC/FreeRTOS/vendors/espressif/esp-idf/components/esp_rom", "/home/alejandro/Descargas/Connect_to_AWS_IoT_-_ESP32-DevKitC/FreeRTOS/vendors/espressif/esp-idf/components/esptool_py", "/home/alejandro/Descargas/Connect_to_AWS_IoT_-_ESP32-DevKitC/FreeRTOS/vendors/espressif/esp-idf/components/log", "/home/alejandro/Descargas/Connect_to_AWS_IoT_-_ESP32-DevKitC/FreeRTOS/vendors/espressif/esp-idf/components/bootloader/subproject/main", "/home/alejandro/Descargas/Connect_to_AWS_IoT_-_ESP32-DevKitC/FreeRTOS/vendors/espressif/esp-idf/components/bootloader/subproject/components/micro-ecc", "/home/alejandro/Descargas/Connect_to_AWS_IoT_-_ESP32-DevKitC/FreeRTOS/vendors/espressif/esp-idf/components/partition_table", "/home/alejandro/Descargas/Connect_to_AWS_IoT_-_ESP32-DevKitC/FreeRTOS/vendors/espressif/esp-idf/components/soc", "/home/alejandro/Descargas/Connect_to_AWS_IoT_-_ESP32-DevKitC/FreeRTOS/vendors/espressif/esp-idf/components/spi_flash", "/home/alejandro/Descargas/Connect_to_AWS_IoT_-_ESP32-DevKitC/FreeRTOS/vendors/espressif/esp-idf/components/xtensa", "" ]
+}
